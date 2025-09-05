@@ -1,2 +1,2 @@
 #!/bin/python
-print('Hello, Datagrokr!')
+print('Konnichiwa, Datagrokr!')
